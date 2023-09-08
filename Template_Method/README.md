@@ -1,0 +1,1 @@
+Using the template method to solve the problem of two classes.
