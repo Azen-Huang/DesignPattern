@@ -16,5 +16,5 @@ make
 
 ## Python run
 ```
-python mian.py
+python main.py
 ```
