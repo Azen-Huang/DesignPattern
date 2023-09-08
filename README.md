@@ -1,6 +1,7 @@
 # DesignPattern
 
-Design Pattern application
+Design Pattern application.
+
 Course Link：https://world.waterballsa.tw/
 
 using C++ or Python to coding.
