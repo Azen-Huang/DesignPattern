@@ -21,7 +21,7 @@ make
 
 int main() {
     vector<int> arr = {2, 3, 4, 5, 6, 7, 1, 2};
-    TemplateMethodClass* method = new Class1();
+    TemplateMethodClass* method = new Class2();
     method->templateMethod(arr);
-    for_each(arr.begin(), arr.end(), [](int x) { cout << x << ","; });
+    for_each(arr.begin(), arr.end(), [](int x) { cout << x << ", "; });
 }
